@@ -5,3 +5,11 @@ a, r4 = divmod(a, 2)
 a, r5 = divmod(a, 2)
 a
 print(r5, r4, r3, r2, r1)
+
+# 別解
+b23 = ""
+a = 23
+while a != 0:
+    a, r = divmod(a, 2)
+    b23 = str(r) + b23
+print(b23)
