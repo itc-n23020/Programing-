@@ -39,7 +39,7 @@
 
 ・2.13 importのいろいろな書き方([問題１](CHAPTER02/Q2_13_1.py),[問題２](CHAPTER02/Q2_13_2.py))
 
-CHAPTER02 最終問題
+CHAPTER02 最終問題([最終問題](CHAPTER02/Q2_TEST.py))
 
 ### CHAPTER3 制御構文
 ・3.1 if文の基礎
