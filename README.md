@@ -42,7 +42,7 @@
 CHAPTER02 最終問題([最終問題](CHAPTER02/Q2_TEST.py))
 
 ### CHAPTER3 制御構文
-・3.1 if文の基礎
+・3.1 if文の基礎([問題１](CHAPTER03/Q3_1_1.py),[問題２](CHAPTER03/Q3_1_2.py))
 
 ・3.2 if文の応用
 
