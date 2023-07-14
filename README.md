@@ -50,7 +50,7 @@ CHAPTER02 最終問題([最終問題](CHAPTER02/Q2_TEST.py))
 
 ・3.4 for文の応用([問題１](CHAPTER03/Q3_4_1.py),[問題２](CHAPTER03/Q3_4_2.py))
 
-・3.5 while文の基礎
+・3.5 while文の基礎([問題１](CHAPTER03/Q3_5_1.py),[問題２](CHAPTER03/Q3_5_2.py))
 
 ・3.6 whileを使ったプログラミング
 
