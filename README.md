@@ -52,9 +52,9 @@ CHAPTER02 最終問題([最終問題](CHAPTER02/Q2_TEST.py))
 
 ・3.5 while文の基礎([問題１](CHAPTER03/Q3_5_1.py),[問題２](CHAPTER03/Q3_5_2.py))
 
-・3.6 whileを使ったプログラミング([問題１](CHAPTER03/Q3_6_1.py),[問題２](CHAPTER03/Q3_5_2.py))
+・3.6 whileを使ったプログラミング([問題１](CHAPTER03/Q3_6_1.py),[問題２](CHAPTER03/Q3_6_2.py))
 
-・3.7 ファイルの操作
+・3.7 ファイルの操作([問題１](CHAPTER03/Q3_7_1.py),[問題２](CHAPTER03/Q3_7_2.py))
 
 ・3.8 バイナリファイルの扱い
 ### CHAPTER4 関数
