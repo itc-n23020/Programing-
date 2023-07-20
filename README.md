@@ -61,7 +61,7 @@ CHAPTER02 最終問題([最終問題](CHAPTER02/Q2_TEST.py))
 ### CHAPTER4 関数
 ・4.1 関数の書き方([問題１](CHAPTER04/Q4_1_1.py),[問題２](CHAPTER04/Q4_1_2.py))
 
-・4.2 キーワード引数
+・4.2 キーワード引数([問題１](CHAPTER04/Q4_2_1.py),[問題２](CHAPTER04/Q4_2_2.py))
 
 ・4.3 引数リスト
 
