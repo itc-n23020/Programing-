@@ -80,9 +80,9 @@ CHAPTER02 最終問題([最終問題](CHAPTER02/Q2_TEST.py))
 ・CHAPTER04 特別問題([問題１](CHAPTER04/Q4_99.py))
 
 ### CHAPTER5 データ構造
-・5.1 リストのメソッド([問題１](CHAPTER05/Q5_1_1.py),[問題２](CHAPTER05/Q5_1_2.py),[問題３](CHAPTER05/Q5_1_3.py)))
+・5.1 リストのメソッド([問題１](CHAPTER05/Q5_1_1.py),[問題２](CHAPTER05/Q5_1_2.py),[問題３](CHAPTER05/Q5_1_3.py))
 
-・5.2 リスト内包表記
+・5.2 リスト内包表記([問題１](CHAPTER05/Q5_2_1.py),[問題２](CHAPTER05/Q5_2_2.py),[問題３](CHA      PTER05/Q5_2_3.py))
 
 ・5.3 del を使った削除
 
