@@ -75,7 +75,10 @@ CHAPTER02 最終問題([最終問題](CHAPTER02/Q2_TEST.py))
 
 ・4.8 デコレータ([問題１](CHAPTER04/Q4_8_1.py),[問題２](CHAPTER04/Q4_8_2.py))
 
-・4.9 コーディングスタイル
+・4.9 コーディングスタイル([問題１](CHAPTER04/Q4_9_1.py),[問題２](CHAPTER04/Q4_9_2.py))
+
+・CHAPTER04 特別問題([問題１](CHAPTER04/Q4_99.py))
+
 ### CHAPTER5 データ構造
 ・5.1 リストのメソッド
 
