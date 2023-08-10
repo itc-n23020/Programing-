@@ -86,7 +86,7 @@ CHAPTER02 最終問題([最終問題](CHAPTER02/Q2_TEST.py))
 
 ・5.3 del を使った削除
 
-・5.4 タプル
+・5.4 タプル([問題１](CHAPTER05/Q5_4_1.py),[問題２](CHAPTER05/Q5_4_2.py),[問題３](CHAPTER05/Q5_4_3.py),[問題４](CHAPTER05/Q5_4_4.py))
 
 ・5.5 集合（set）
 
