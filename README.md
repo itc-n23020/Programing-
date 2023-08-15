@@ -92,7 +92,7 @@ CHAPTER02 最終問題([最終問題](CHAPTER02/Q2_TEST.py))
 
 ・5.6 集合を使った演算([問題１](CHAPTER05/Q5_6_1.py),[問題２](CHAPTER05/Q5_6_2.py))
 
-・5.7 辞書(dict)
+・5.7 辞書(dict)([問題１](CHAPTER05/Q5_7_1.py),[問題２](CHAPTER05/Q5_7_2.py))
 
 ・5.8 辞書を使ったプログラミング
 
